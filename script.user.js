@@ -2,7 +2,8 @@
 // @name         Aliexpress short link share button
 // @namespace    opravdin.aliexpress
 // @version      1.0
-// @description  Finally adds easy-share button on Aliexpress without annoying query params
+// @description  Adds short link share button on Aliexpress without annoying query params. Check it out near item raiting & order counter!
+// @homepageURL  https://github.com/opravdin/aliexpress-share-userscript
 // @author       Oleg Pravdin aka opravdin
 // @match        *://*.aliexpress.com/item/*
 // @match        *://aliexpress.com/item/*
